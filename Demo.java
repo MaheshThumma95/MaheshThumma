@@ -1,7 +1,5 @@
 class Demo{
     public static void main(String[] args) {
-        System.out.println("Hello Java Program");
-
-		System.out.println("Welcome"); //added
+		System.out.println("Welcome to First Java Program"); 
     }
 }
